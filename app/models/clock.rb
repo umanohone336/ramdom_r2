@@ -1,0 +1,3 @@
+class Clock < ApplicationRecord
+
+end
